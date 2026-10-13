@@ -1,1 +1,1 @@
-# NSSP_MiniProject
+# NSSP_MiniProjects
