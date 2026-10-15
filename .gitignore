@@ -9,3 +9,4 @@ T1/
 *.nii.gz
 .ipynb_checkpoints/
 !derivatives/**
+!derivatives/**
